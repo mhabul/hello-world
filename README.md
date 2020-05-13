@@ -1,3 +1,3 @@
 # hello-world
-my first depo
+here we go
 Mo here! Dedicated to learning, improving and creating!
